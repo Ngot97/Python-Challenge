@@ -15,6 +15,7 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
+
         Financial Analysis
         ----------------------------
         Total Months: 86
